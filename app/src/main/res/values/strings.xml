@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">gravity</string>
     <string name="fb_button_text">Log in with facebook</string>
+    <string name="signup_text">Sign Up</string>
+    <string name="have_account">Already have an account?</string>
+    <!--string name="access_description">To easily connect with friends and family, allow Gravity to access your contact and your device's location while you use the app.</string-->
+    <string name="next">Next</string>
 </resources>
