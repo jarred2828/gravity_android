@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">gravity</string>
+    <string name="fb_button_text">Log in with facebook</string>
 </resources>
